@@ -22,7 +22,8 @@
 <img src="assets/imgs/notion.svg" width="15px" style="display:inline;"> <a href="https://boiled-honeycup-4c7.notion.site/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea?source=copy_link" target="_blank">Blog</a> ｜<img src="assets/imgs/slack.png" width="14px" style="display:inline;"> <a href="https://join.slack.com/t/openresearcher/shared_invite/zt-3p0r32cky-PqtZkVjjWIAI14~XwcRMfQ" target="_blank">Slack</a> | <img src="assets/imgs/wechat.svg" width="14px" style="display:inline;"> <a href="assets/imgs/wechat_group.jpg" target="_blank">WeChat</a> 
 </p>
 
-## 📣 News
+## 📣 News 
++ **[2026.2.12]**  🔥 Excited to see **OpenResearcher** powering deep research trajectory generation in [**NVIDIA’s NeMo Data Designer**](https://nvidia-nemo.github.io/DataDesigner/latest/devnotes/deep-research-trajectories-with-nemo-data-designer-and-mcp-tool-use/)!
 + **[2026.2.10]** 🚀 Our X [post](https://x.com/DongfuJiang/status/2020946549422031040) received **1K+** likes! Feel free to check out the post and join the discussion! 💬
 
 ## 💥 Introduction
