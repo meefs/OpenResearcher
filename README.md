@@ -313,7 +313,7 @@ python eval.py --input_dir [INPUT_DIR]
 </table>
 
 ## 🙏 Acknowledgements
-We thank [Lambda](https://lambda.ai), [Netmind AI](https://www.netmind.ai/) and [Verdent AI](https://www.verdent.ai) for GPU and API support!
+We thank [Lambda](https://lambda.ai), [Netmind AI](https://www.netmind.ai/), [Verdent AI](https://www.verdent.ai) and [Serper](https://serper.dev/) for GPU and API support!
 
 
 ## ✨ Contributing
