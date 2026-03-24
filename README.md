@@ -338,13 +338,14 @@ We are also looking forward to your feedback and suggestions!
 ##  📚 Citation
 
 ```bibtex
-@article{li2026openresearcher,
+@misc{li2025openresearcher,
   title={OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis},
-  author={Li, Zhuofeng and Jiang, Dongfu and Ma, Xueguang and Zhang, Haoxiang and Nie, Ping and Zhang, Yuyu and Zou, Kai and Xie, Jianwen and Zhang, Yu and Chen, Wenhu},
-  journal={arXiv preprint arXiv:2603.20278},
-  year={2026}
-}
+  author={Zhuofeng Li and Dongfu Jiang and Xueguang Ma and Haoxiang Zhang and Ping Nie and Yuyu Zhang and Kai Zou and Jianwen Xie and Yu Zhang and Wenhu Chen},
+  year={2025},
+  howpublished={\url{https://www.notion.so/OpenResearcher-A-Fully-Open-Pipeline-for-Long-Horizon-Deep-Research-Trajectory-Synthesis-2f7e290627b5800cb3a0cd7e8d6ec0ea}},
+  note={Notion Blog}
 ```
+
 
 ## ⭐ Star History
 [![Star History Chart](https://api.star-history.com/svg?repos=TIGER-AI-Lab/OpenResearcher&type=date&legend=top-left)](https://www.star-history.com/#TIGER-AI-Lab/OpenResearcher&type=date&legend=top-left)
